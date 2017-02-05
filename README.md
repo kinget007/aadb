@@ -1,6 +1,6 @@
-# aadb [![Linux Build Status](https://travis-ci.org/appetizerio/aadb.svg?branch=master)](https://travis-ci.org/appetizerio/aadb) [![Build status](https://ci.appveyor.com/api/projects/status/nkf33d5bk9lofyjd/branch/master?svg=true)](https://ci.appveyor.com/project/mingyuan-xia/aadb/branch/master)
+# aadb [<img src="https://www.appetizer.io/images/logo1.png" width="20" height="20" />](https://www.appetizer.io) [![Linux Build Status](https://travis-ci.org/appetizerio/aadb.svg?branch=master)](https://travis-ci.org/appetizerio/aadb) [![Build status](https://ci.appveyor.com/api/projects/status/nkf33d5bk9lofyjd/branch/master?svg=true)](https://ci.appveyor.com/project/mingyuan-xia/aadb/branch/master)
 
-![aadb architecture](https://github.com/appetizerio/aadb/blob/master/aadb.png|alt=aadb])
+![aadb architecture](https://github.com/appetizerio/aadb/blob/master/aadb.png?raw=true)
 
 aadb (Appetizer Android Debug Bridge) is a Python Library that provides 101 Ways to Control an Android. It provides the following features across three major platforms (Linux, Windows and macOS):
 * A superset of adb commands: shell, install, uninstall, reboot, etc; various convenience commands such as inputing text (enabled with a custom `adbclient`)
